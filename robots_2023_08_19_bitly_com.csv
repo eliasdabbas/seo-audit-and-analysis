@@ -1,0 +1,24 @@
+directive,content,etag,robotstxt_last_modified,robotstxt_url,download_date
+comment,Welcome to Bitly =),"""64e66c68-267""",2023-08-23 20:30:32,https://bitly.com/robots.txt,2023-09-18 21:21:17.621212+00:00
+comment,robots welcome;,"""64e66c68-267""",2023-08-23 20:30:32,https://bitly.com/robots.txt,2023-09-18 21:21:17.621212+00:00
+comment,API documentation can be found at https://dev.bitly.com/,"""64e66c68-267""",2023-08-23 20:30:32,https://bitly.com/robots.txt,2023-09-18 21:21:17.621212+00:00
+User-Agent,*,"""64e66c68-267""",2023-08-23 20:30:32,https://bitly.com/robots.txt,2023-09-18 21:21:17.621212+00:00
+Disallow,/pages/landing$,"""64e66c68-267""",2023-08-23 20:30:32,https://bitly.com/robots.txt,2023-09-18 21:21:17.621212+00:00
+Disallow,/pages/es$,"""64e66c68-267""",2023-08-23 20:30:32,https://bitly.com/robots.txt,2023-09-18 21:21:17.621212+00:00
+Disallow,/pages/pt$,"""64e66c68-267""",2023-08-23 20:30:32,https://bitly.com/robots.txt,2023-09-18 21:21:17.621212+00:00
+Disallow,/pages/it$,"""64e66c68-267""",2023-08-23 20:30:32,https://bitly.com/robots.txt,2023-09-18 21:21:17.621212+00:00
+Disallow,/pages/de$,"""64e66c68-267""",2023-08-23 20:30:32,https://bitly.com/robots.txt,2023-09-18 21:21:17.621212+00:00
+Disallow,/pages/fr$,"""64e66c68-267""",2023-08-23 20:30:32,https://bitly.com/robots.txt,2023-09-18 21:21:17.621212+00:00
+Disallow,/pages/home,"""64e66c68-267""",2023-08-23 20:30:32,https://bitly.com/robots.txt,2023-09-18 21:21:17.621212+00:00
+Disallow,/pages/thank-you,"""64e66c68-267""",2023-08-23 20:30:32,https://bitly.com/robots.txt,2023-09-18 21:21:17.621212+00:00
+Disallow,/pages/free-plan-refresh-faqs,"""64e66c68-267""",2023-08-23 20:30:32,https://bitly.com/robots.txt,2023-09-18 21:21:17.621212+00:00
+Disallow,/blog/*?,"""64e66c68-267""",2023-08-23 20:30:32,https://bitly.com/robots.txt,2023-09-18 21:21:17.621212+00:00
+Disallow,/blog/?p=,"""64e66c68-267""",2023-08-23 20:30:32,https://bitly.com/robots.txt,2023-09-18 21:21:17.621212+00:00
+Disallow,/blog/page/*/?p=,"""64e66c68-267""",2023-08-23 20:30:32,https://bitly.com/robots.txt,2023-09-18 21:21:17.621212+00:00
+Disallow,/pages/*?preview[,"""64e66c68-267""",2023-08-23 20:30:32,https://bitly.com/robots.txt,2023-09-18 21:21:17.621212+00:00
+Disallow,/pages/*&preview[,"""64e66c68-267""",2023-08-23 20:30:32,https://bitly.com/robots.txt,2023-09-18 21:21:17.621212+00:00
+Disallow,/pages/*[,"""64e66c68-267""",2023-08-23 20:30:32,https://bitly.com/robots.txt,2023-09-18 21:21:17.621212+00:00
+Disallow,/pages/*{,"""64e66c68-267""",2023-08-23 20:30:32,https://bitly.com/robots.txt,2023-09-18 21:21:17.621212+00:00
+Disallow,/pages/*;,"""64e66c68-267""",2023-08-23 20:30:32,https://bitly.com/robots.txt,2023-09-18 21:21:17.621212+00:00
+Sitemap,https://bitly.com/pages/sitemap_index.xml,"""64e66c68-267""",2023-08-23 20:30:32,https://bitly.com/robots.txt,2023-09-18 21:21:17.621212+00:00
+Sitemap,https://bitly.com/blog/sitemap_index.xml,"""64e66c68-267""",2023-08-23 20:30:32,https://bitly.com/robots.txt,2023-09-18 21:21:17.621212+00:00
